@@ -1,3 +1,3 @@
 ## Hello
-- 👋 I’m @Ifaliana
+- 👋 I’m **@Ifaliana**
 - Let's code.
